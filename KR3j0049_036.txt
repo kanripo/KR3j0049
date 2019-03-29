@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 古今攷
-#+DATE: 2019-03-29 21:30:34.365725
+#+DATE: 2019-03-29 21:30:35.131493
 #+PROPERTY: ID KR3j0049
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 36
 <pb:KR3j0049_WYG_036-1a>¶
 　　欽定四庫全書¶
@@ -129,7 +129,7 @@
 衰陽氣下注五月也律中㽔賔隂氣㓜少曰㽔痿陽不¶
 <pb:KR3j0049_WYG_036-7a>¶
 用事曰賔囘曰井鬼桞星張翼軫古次序如此今清明¶
-風主四月五月兩箇月律中仲呂&KR0331;賔是矣而謂七星¶
+風主四月五月兩箇月律中仲呂𬎼賔是矣而謂七星¶
 之星在張之先何也此四月五月占桞星張翼軫五宿¶
 ¶
 　　第六風曰景風居南方其於十二子為午囘曰午乃¶
